@@ -1,0 +1,12 @@
+{
+  "name": "toshiro-shibakita",
+  "version": "1.0.0",
+  "description": "Seu projeto",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    
+  }
+}
